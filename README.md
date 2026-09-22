@@ -1,15 +1,15 @@
 # cybersecurity-learning
 My hands-on cybersecurity and penetration testing learning journey.
 
-# 🔐 Cybersecurity Learning Journey
+#  Cybersecurity Learning Journey
 
 My hands-on journey learning **Cybersecurity, Web Security, and Penetration Testing** from the fundamentals.
 
-## 🎯 Current Goal
+##  Current Goal
 
 Build practical cybersecurity skills and work toward a **junior penetration testing / cybersecurity role**.
 
-## 🛠️ Skills I'm Practicing
+##  Skills I'm Practicing
 
 * Linux fundamentals
 * Networking fundamentals
@@ -25,7 +25,7 @@ Build practical cybersecurity skills and work toward a **junior penetration test
 * Regex & Boolean logic
 * Password-security logic
 
-## 🧪 Hands-on Labs
+##  Hands-on Labs
 
 | Day   | Topic                                    |
 | ----- | ---------------------------------------- |
@@ -40,7 +40,7 @@ Build practical cybersecurity skills and work toward a **junior penetration test
 | 22    | API/client-side investigation            |
 | 23    | Client-side JavaScript security analysis |
 
-## 📚 Learning Approach
+##  Learning Approach
 
 I focus on understanding **why** a technique works instead of only copying commands.
 
@@ -48,14 +48,14 @@ My workflow:
 
 **Learn → Predict → Run → Observe → Explain → Test**
 
-## 🚀 Current Progress
+##  Current Progress
 
 Currently working through hands-on web security and penetration-testing fundamentals.
 
 More labs and projects will be added as I continue learning.
 
-## ⚠️ Ethics
+##  Ethics
 
 All security testing documented here is performed on **my own applications, local labs, CTFs, or systems where I have authorization to test**.
 
-This repository is for educational purposes.
+This repository is for educational purpose
