@@ -1,14 +1,14 @@
 # Day 23 — Client-Side Security Analysis
 
-## 🎯 Objective
+/ Objective/
 
 Learn how to inspect JavaScript running in a web application and understand how client-side password-strength logic works.
 
-## 🧪 Project Tested
+##  Project Tested
 
 I analyzed the JavaScript bundle of my own password-checker application.
 
-## 🔍 What I Found
+##  What I Found
 
 The application checks whether a password contains:
 
@@ -36,7 +36,7 @@ The application calculates entropy using:
 password length × log2(poolSize)
 ```
 
-## 🔎 Additional Checks
+##  Additional Checks
 
 The application also checks for:
 
@@ -58,7 +58,7 @@ AAAA
 BBBB
 ```
 
-## 🧠 Important Lesson
+##  Important Lesson
 
 The final result is not based only on entropy.
 
@@ -80,7 +80,7 @@ If one of these conditions is true, the password can be classified as weak befor
 
 **First matching condition wins.**
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Kali Linux
 * Terminal
@@ -89,7 +89,7 @@ If one of these conditions is true, the password can be classified as weak befor
 * Browser
 * My own password-checker application
 
-## 📚 What I Learned
+##  What I Learned
 
 * Basic regex validation
 * Boolean `OR (||)`
@@ -99,6 +99,6 @@ If one of these conditions is true, the password can be classified as weak befor
 * Condition ordering
 * Basic client-side security analysis
 
-## ⚠️ Ethics
+##  Ethics
 
 Testing was performed on my own application for educational purposes.
