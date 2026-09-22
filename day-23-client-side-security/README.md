@@ -1,6 +1,6 @@
 # Day 23 — Client-Side Security Analysis
 
-/ Objective/
+Objective
 
 Learn how to inspect JavaScript running in a web application and understand how client-side password-strength logic works.
 
